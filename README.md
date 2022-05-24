@@ -14,6 +14,8 @@
 <a href="https://linkedin.com/in/malikfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikfelix" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">Metrics</h2>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
