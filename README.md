@@ -16,6 +16,7 @@
 
 <h2 align="left">Metrics</h2>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugin.starlists.languages.svg">
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
