@@ -6,7 +6,7 @@
 - 📫 Email me at **malikfelix50@gmail.com**
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikflx&hide_border=true&theme=tokyonight_duo" alt="malikflx" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikflx&hide_border=true&theme=blueberry_duo" alt="malikflx" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
