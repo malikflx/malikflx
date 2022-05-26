@@ -6,9 +6,8 @@
 - 📫 Email me at **malikfelix50@gmail.com**
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikflx&hide_border=true&theme=blueberry_duo" alt="malikflx" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikflx&theme=blueberry_duo&hide_border=true" alt="malikflx" /></p>
 </div>
-<img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikflx&date_format=M%20j%5B%2C%20Y%5D&locale=en)](https://git.io/streak-stats)"
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/malikflx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malikflx" height="30" width="40" /></a>
