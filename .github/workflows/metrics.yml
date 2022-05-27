@@ -14,9 +14,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
-          template: repository
-          user: malikflx
-          repo: metrics
+#           template: repository
+#           user: malikflx
+#           repo: metrics
           
 #       - name: Featured star list languages
 #         uses: lowlighter/metrics@latest
