@@ -7,10 +7,10 @@
 - 📫 Email me at **malikfelix50@gmail.com**
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikflx&theme=blueberry_duo&hide_border=true" alt="malikflx" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikflx&theme=blueberry_duo&hide_border=true" alt="malikflx" /></p> -->
   <div>
     
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikflx&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=en)](https://git.io/streak-stats) -->
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikflx&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=en)](https://git.io/streak-stats)
     
   </div>
 </div>
