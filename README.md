@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/malikflx/malikflx/blob/main/readme-assets/profile-images/malik-github-banner.png?raw=true" alt="malikfelix"/>
-<h1 align="center">Hi 👋🏾, I'm Malik Felix</h1>
+<h1 align="center">Hi 👋🏾, I'm Malik Felix!</h1>
 <h3 align="center">A Software Engineer in the NYC metropolitan area.</h3>
 
 - 👨🏾‍💻 Accepting new clients at [malikfelix.com](https://malikfelix.com)!
