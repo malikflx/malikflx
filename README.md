@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/malikflx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malikflx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/malikfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikfelix" height="30" width="40" /></a>
+<a href="https://instagram.com/malik.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik.codes" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Metrics</h2>
