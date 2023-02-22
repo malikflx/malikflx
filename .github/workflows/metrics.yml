@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: America/New_York
+          config_timezone: America/Chicago
 #           template: repository
 #           user: malikflx
 #           repo: metrics
